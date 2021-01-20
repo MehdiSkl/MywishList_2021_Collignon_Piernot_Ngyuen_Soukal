@@ -1,0 +1,43 @@
+Fonctionnalitées (toutes réalisées à 100%) :
+
+1 Afficher une liste de souhaits : Collignon Alexis
+2 Afficher un item d'une liste : Collignon Alexis
+3 Réserver un item : Piernot Vincent
+4 Ajouter un message avec sa réservation : Piernot Vincent
+5 Ajouter un message sur une liste : Piernot Vincent
+6 Créer une liste : Soukal Mehdi
+7 Modifier les informations générales d'une de ses listes : Soukal Mehdi
+8 Ajouter des items : Collignon Alexis
+9 Modifier un item : Collignon Alexis
+10 Supprimer un item : Collignon Alexis
+11 Rajouter une image à un item : NGuyen Hoang Anh
+12 Modifier une image d'un item : NGuyen Hoang Anh
+13 Supprimer une image d'un item : NGuyen Hoang Anh
+14 Partager une liste : Soukal Mehdi
+15 Consulter les réservations d'une de ses listes avant échéance : Piernot Vincent
+16 Consulter les réservations et messages d'une de ses listes après échéance : Piernot Vincent
+
+Extensions :
+
+17 Créer un compte : Soukal Mehdi
+18 S'authentifier : Soukal Mehdi
+19 Modifier son compte : Collignon Alexis
+20 Rendre une liste publique : Soukal Mehdi
+21 Afficher les listes de souhaits publiques : Collignon Alexis
+22 Créer une cagnotte sur un item : NGuyen Hoang Anh
+23 Participer à une cagnotte : NGuyen Hoang Anh
+24 Uploader une image : Piernot Vincent
+25 Créer un compte participant : Soukal Mehdi
+26 Afficher la liste des créateurs : Collignon Alexis
+27 Supprimer son compte : NGuyen Hoang Anh
+28 Joindre des listes à son compte : Piernot Vincent
+
+Ajouts
+
+29 Deconnexion : Piernot Vincent
+30 Rendre une liste privée : Soukal Mehdi
+31 Enlever le systeme par cagnotte d'un item : NGuyen Hoang Anh
+
+CSS : Piernot NGuyen Collignon Soukal
+Certaines fonctionnalitées allant plus vite que d'autres, chaque personne a participé à des fonctionnalitées
+qui n'étaient pas les siennes
